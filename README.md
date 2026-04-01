@@ -63,9 +63,9 @@
 ---
 
 ## 🌐 Connect with Me
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 💻 Portfolio: https://your-portfolio-link  
-- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/omar-abdelpaq-a58924386 
+- 💻 Portfolio: https://omarabdelpaq84-design.github.io/omar-portfolio/  
+- 📧 Email: omarabdelpaq84@gmail.com 
 
 ---
 

@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Omar AbdElpaq</h1>
+<h3 align="center">Junior Data Analyst | Turning Data into Business Insights 📊</h3>
 
-<!--
-**omarabdelpaq84-design/omarabdelpaq84-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Computer Science & AI Student (Expected 2026)
+- 📊 Analyzed real-world datasets (10,000+ records)
+- 💡 Passionate about Data Analysis & Business Insights
+- 🔍 Skilled in EDA, KPI Tracking & Dashboarding
+- 🤖 Built an End-to-End Machine Learning App using Streamlit
+- 🎯 Currently seeking Internship / Entry-Level Role
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Focus Areas
+- Data Cleaning & Preparation  
+- Exploratory Data Analysis (EDA)  
+- Business Insights & KPI Tracking  
+- Dashboard Development  
+- SQL Data Analysis  
+- Customer Behavior Analysis  
+- Sales & Revenue Analysis  
+- Data Storytelling  
+
+---
+
+## 🛠️ Tools & Technologies
+<p>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Amazon Sales Analysis (Excel)
+- Built interactive dashboard to track sales performance  
+- Identified top-performing products & revenue trends  
+- Delivered business insights for decision-making  
+
+### 📈 HR Analytics Dashboard (Excel)
+- Analyzed employee data to track attrition & performance  
+- Created KPI dashboards for HR decision support  
+
+### 🤖 Customer Purchase Prediction (Python + ML)
+- Built Machine Learning model using Random Forest  
+- Developed interactive app using Streamlit  
+- Predicted customer purchase behavior with probability  
+
+---
+
+## 📜 Certifications
+- NTI Data Analytics (Score: 92.5%)  
+- Huawei HCIA – Artificial Intelligence  
+- NVIDIA Deep Learning Institute  
+- AI Ambassadors Program (NTI)  
+
+---
+
+## 🌐 Connect with Me
+- 💼 LinkedIn: https://linkedin.com/in/your-link  
+- 💻 Portfolio: https://your-portfolio-link  
+- 📧 Email: your-email@gmail.com  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelpaq-a11y&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelpaq-a11y&theme=tokyonight"/>
+</p>

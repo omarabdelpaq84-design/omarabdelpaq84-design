@@ -34,25 +34,6 @@
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
----
-
-## 📂 Featured Projects
-
-### 📊 Amazon Sales Analysis (Excel)
-- Built interactive dashboard to track sales performance  
-- Identified top-performing products & revenue trends  
-- Delivered business insights for decision-making  
-
-### 📈 HR Analytics Dashboard (Excel)
-- Analyzed employee data to track attrition & performance  
-- Created KPI dashboards for HR decision support  
-
-### 🤖 Customer Purchase Prediction (Python + ML)
-- Built Machine Learning model using Random Forest  
-- Developed interactive app using Streamlit  
-- Predicted customer purchase behavior with probability  
-
----
 
 ## 📜 Certifications
 - NTI Data Analytics (Score: 92.5%)  
@@ -67,13 +48,4 @@
 - 💻 Portfolio: https://omarabdelpaq84-design.github.io/data-analyst-portfolio/
 - 📧 Email: omarabdelpaq84@gmail.com 
 
----
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelpaq-a11y&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelpaq-a11y&theme=tokyonight"/>
-</p>

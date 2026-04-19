@@ -45,7 +45,7 @@
 
 ## 🌐 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/omar-abdelpaq-a58924386 
-- 💻 Portfolio: https://omarabdelpaq84-design.github.io/data-analyst-portfolio/
+- 💻 Portfolio: https://omarabdelpaq84-design.github.io/omarabdelpaq/
 - 📧 Email: omarabdelpaq84@gmail.com 
 
 
